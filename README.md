@@ -10,3 +10,4 @@ This project is a fictional dataset from a fictional telecommunication company.
 - Power Query editor
 - Calculated columns
 - Quick measures
+![]
