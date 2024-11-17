@@ -1,4 +1,5 @@
 # Telco Customer Churn Analysis
+![](https://github.com/GoldenGoodness/Telco-Data-Analysis/blob/9459790bd1e9663eb3e60a8079c3a26e51280b9c/Teleco%20img.jpg)
 ## Introduction and Problem Statement
 
 In the competitive telecommunications industry, customer retention is crucial for sustainable growth. This project analyses the patterns, reasons, and likelihood of customer churn to develop actionable strategies to reduce customer churn and retain high-value customers. The analysis was performed using Power BI and focuses on understanding customer demographics, service patterns, and churn reasons.
