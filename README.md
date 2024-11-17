@@ -43,6 +43,6 @@ Based on the insights from the dashboard, the below is recommended:
 
 ## Dashboard
 Below is a snippet of the PowerBI dashboard: 
-![]
+![](https://github.com/GoldenGoodness/Telco-Data-Analysis/blob/213ec82557ee90fc70ed2f486a63c0e017e2cd58/Telco%20Customer%20Churn%20Analysis%20Dashboard.jpg)
 
-See live dashboard here: 
+See live dashboard [here](https://app.powerbi.com/groups/me/reports/63bc3076-963c-4745-82aa-c8f412601dc8/2c98a91eb9ceb42ff481?experience=power-bi) 
