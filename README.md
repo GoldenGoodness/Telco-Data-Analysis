@@ -24,22 +24,25 @@ Calculated fields were created to derive metrics such as churn rate, revenue los
 ## Recommendations
 Based on the insights from the dashboard, the below is recommended:
 
-1.	Customer Retention Programs:
-o	Focus on Month-to-Month contract customers by offering incentives for switching to longer-term contracts.
-o	Provide loyalty programs or discounts for senior citizens and customers without dependents.
-2.	Service Quality Improvement:
-o	Address service issues for Fiber Optic customers through enhanced technical support and competitive pricing.
-o	Improve customer service and support to reduce churn caused by poor support experiences.
-3.	Targeted Retention for High-Value Customers:
-o	Deploy personalised retention strategies for high value customers with high churn scores. Benefits such as data upgrades, price reductions, or exclusive offers could decrease their churn scores.
-4.	Payment Method Optimisation:
-o	Encourage churn-prone electronic check users to switch to automated bank transfers or credit card payments by highlighting benefits.
-5.	Competitor Strategy Analysis:
-o	Conduct competitive benchmarking to address gaps in offers related to download speeds, data limits, and pricing.
+#### 1.	Customer Retention Programs:
+- Focus on Month-to-Month contract customers by offering incentives for switching to longer-term contracts.
+- Provide loyalty programs or discounts for senior citizens and customers without dependents.
+  
+#### 2.	Service Quality Improvement:
+- Address service issues for Fiber Optic customers through enhanced technical support and competitive pricing.
+- Improve customer service and support to reduce churn caused by poor support experiences.
+  
+#### 3.	Targeted Retention for High-Value Customers:
+- Deploy personalised retention strategies for high value customers with high churn scores. Benefits such as data upgrades, price reductions, or exclusive offers could decrease their churn scores.
+  
+#### 4.	Payment Method Optimisation:
+- Encourage churn-prone electronic check users to switch to automated bank transfers or credit card payments by highlighting benefits.
+  
+#### 5.	Competitor Strategy Analysis:
+- Conduct competitive benchmarking to address gaps in offers related to download speeds, data limits, and pricing.
 
-#### The following data analysis apporach were used:
-- DAX
-- Power Query editor
-- Calculated columns
-- Quick measures
+## Dashboard
+Below is a snippet of the PowerBI dashboard: 
 ![]
+
+See live dashboard here: 
